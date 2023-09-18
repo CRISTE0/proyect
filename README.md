@@ -1,2 +1,2 @@
 # proyect
-examplo de jaja
+examplo de curso de git :()
