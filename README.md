@@ -1,2 +1,2 @@
 # proyect
-examplo de curso de git :()
+Ejemplo de curso de git :()
